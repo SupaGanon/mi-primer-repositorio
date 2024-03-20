@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Mi primer repositorio en GitHub para curso de GitHub
+# mi-primer-README
+Migitlo primer repositorio en GitHub para curso de GitHub
